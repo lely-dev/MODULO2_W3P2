@@ -1,0 +1,25 @@
+caption {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+img {
+    height: 150px;
+
+}
+
+
+.description{
+    width: 400px;
+    height: auto;
+}
+
+
+.hide_image{
+    visibility: hidden;
+}
+
+.color_price{
+    color: red;
+}
